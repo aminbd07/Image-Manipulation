@@ -1,0 +1,6 @@
+1. Upload the image into the “Gallery” folder in your project root directory.
+2. Create a media library for browsing images from the directory.
+3. Select Image from media library for modification /edit
+4. Save the edited images (Must be contain the origin image if someone want to revert it)
+5. Follow the coding standards and best practices.
+6. Code quality (organization, best practices, idiomatic code)
