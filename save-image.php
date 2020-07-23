@@ -1,8 +1,5 @@
 <?php
 
-// echo json_encode($_FILES["images"]);
-// return;
-
 $result = [];
 
 if (isset($_FILES["images"]["name"]))

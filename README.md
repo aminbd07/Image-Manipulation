@@ -23,9 +23,9 @@ for run PHP server
 php -S localhost:8000
 ```
 
-Build JS Files 
+Build JS Files for production 
 ```bash
-npm run build  
+npm run prod  
 ```
 
 to run development perpose  
