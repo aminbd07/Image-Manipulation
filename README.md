@@ -9,10 +9,13 @@ Simple Image Manipulation demo project
 
 ### Installation Instructions
 First, cline this reposatori in you local pc 
-
-
 ```bash
 git clone git@github.com:aminbd07/Image-Manipulation.git
+```
+
+Install node modules 
+```bash
+npm run install  
 ```
 
 for run PHP server 
